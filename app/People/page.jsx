@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import PeopleList from "./PeopleList";
+//import PeopleList from "./PeopleList";
 
 
 export default function Home() {
