@@ -21,7 +21,7 @@ export default function People({ people, filterByGender, filterByPetType }) {
             <thead>
               <tr>
                 <th className="px-6 py-3 text-left text-xs font-medium text-green-500 uppercase tracking-wider">S. No.</th>
-                <th className="px-6 py-3 text-left text-xs font-medium text-green-500 uppercase tracking-wider">Owner's Name</th>
+                <th className="px-6 py-3 text-left text-xs font-medium text-green-500 uppercase tracking-wider">Owner&apos;s Name</th>
                 <th className="px-6 py-3 text-left text-xs font-medium text-green-500 uppercase tracking-wider">Gender</th>
                 <th className="px-6 py-3 text-left text-xs font-medium text-green-500 uppercase tracking-wider">{filterByPetType} Name</th>
               </tr>
